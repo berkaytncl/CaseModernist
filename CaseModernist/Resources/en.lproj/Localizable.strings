@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  CaseModernist
+
+  Created by Berkay Tuncel on 30.06.2025.
+  
+*/
+
+"app_name" = "PeopList";
+"users" = "Users";
+"favorites" = "Favorites";
+"settings" = "Settings";
+"search_placeholder_item" = "Search users...";
+"profile_details" = "Profile Details";
+"email" = "Email";
+"contact" = "Contact";
+"telephone" = "Telephone";
+"address" = "Address";
+"company" = "Company";
+"workplace" = "Workplace";
+"back" = "Back";
+"empty_favorites" = "Empty Favorites";
+"application_settings" = "APPLICATION SETTINGS";
+"language" = "Language";
+"loading_launch" = "Loading %@...";
